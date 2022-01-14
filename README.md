@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mortal555
+- 👀 I’m interested in java
+- 🌱 I’m currently learning spring boot, angular and docker
+- 💞️ I’m looking to collaborate on projects with the technologies that I'm learning
+- 📫 Reach me at mt24979@gmail.com
